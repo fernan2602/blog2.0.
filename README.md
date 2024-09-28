@@ -8,6 +8,8 @@ MASTER 2
 
 - Esto esta made por fernan 2602
 
+- ejemplos en linux y mac
+- made for all age
 
 
 
