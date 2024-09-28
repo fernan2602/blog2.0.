@@ -13,7 +13,13 @@ MASTER 2
 
 
 -hello
+<<<<<<< HEAD
 
 -hola
 
+=======
+>>>>>>> helloword
 
+-hola
+
+alo
